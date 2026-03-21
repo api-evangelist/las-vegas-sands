@@ -1,0 +1,28 @@
+name: Las Vegas Sands
+description: >-
+  Las Vegas Sands Corp. is the world's leading developer and operator of
+  integrated resorts, including The Venetian and Marina Bay Sands. The company
+  operates in the casino, hospitality, convention, and entertainment industries.
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://github.com/api-evangelist/las-vegas-sands/blob/main/apis.yml
+created: '2025-03-01'
+modified: '2025-03-01'
+specificationVersion: '0.18'
+tags:
+  - Casino
+  - Hospitality
+  - Hotels
+  - Resorts
+  - Entertainment
+apis: []
+common:
+  - type: Website
+    url: https://www.sands.com/
+  - type: About
+    url: https://www.sands.com/company/about-las-vegas-sands/
+  - type: Investor Relations
+    url: https://www.investor.sands.com/
+maintainers:
+  - FN: API Evangelist
+    url: https://apievangelist.com
+    email: info@apievangelist.com
