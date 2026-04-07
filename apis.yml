@@ -10,10 +10,10 @@ modified: '2025-03-01'
 specificationVersion: '0.18'
 tags:
   - Casino
+  - Entertainment
   - Hospitality
   - Hotels
   - Resorts
-  - Entertainment
 apis: []
 common:
   - type: Website
