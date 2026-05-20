@@ -21,6 +21,8 @@ tags:
   - Resorts
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/las-vegas-sands-corporation
   - type: Website
     url: https://www.sands.com/
   - type: About
