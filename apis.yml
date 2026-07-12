@@ -22,6 +22,8 @@ tags:
   - Fortune 500
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/las-vegas-sands-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/las-vegas-sands-corporation
   - type: Website
