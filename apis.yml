@@ -5,6 +5,17 @@ description: >-
   integrated resorts, including The Venetian Resort in Las Vegas (divested in
   2022) and Marina Bay Sands in Singapore. The company operates in the
   casino, hospitality, convention, and entertainment industries.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
