@@ -1,7 +1,9 @@
 ---
 title: This Friday at Preview Las Vegas, we dive into a timely ...
 url: https://www.facebook.com/vegaschamber/posts/this-friday-at-preview-las-vegas-we-dive-into-a-timely-conversation-on-artificia/1306677398172050/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Las Vegas Sands" press release artificial intelligence'
 position: 4
 source: serpapi-google

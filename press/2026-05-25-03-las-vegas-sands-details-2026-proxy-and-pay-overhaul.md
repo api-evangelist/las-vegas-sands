@@ -1,7 +1,9 @@
 ---
 title: Las Vegas Sands details 2026 proxy and pay overhaul
 url: https://www.stocktitan.net/sec-filings/LVS/def-14a-las-vegas-sands-corp-definitive-proxy-statement-a4938dbbd0c8.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Las Vegas Sands" press release artificial intelligence'
 position: 3
 source: serpapi-google
